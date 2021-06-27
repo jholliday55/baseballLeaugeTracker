@@ -7,3 +7,20 @@
     background-color: azure;
     color: white;
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.table {
+    width: 100%;
+}
+
+.mat-cell {
+    /* padding: 15px 15px 15px 0; */
+    padding-left: 35px;
+    padding-right: 35px;
+  }
